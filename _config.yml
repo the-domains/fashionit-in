@@ -1,6 +1,6 @@
 name: Fashionit.in
 favicon: null
-layout_spectrum: 0.6146947834640741
+layout_spectrum: 1
 typography_spectrum: 0.5
 title: 'Contemporary Vogue '
 cta:
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#49a7c3'
+    - '#88d9d0'
+    - '#999cd1'
+    - '#415fa5'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
