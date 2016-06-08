@@ -2,23 +2,23 @@
     <channel>
         <title><![CDATA[Indian Vogue ]]></title>
         <description><![CDATA[Indian Vogue ]]></description>
-        <link>https://thegrid.ai/fashionit-in/</link>
+        <link>http://fashionit.in/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 16:58:03 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/fashionit-in/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be8cd87-4576-4419-a56b-72e979002368.jpg">]]></description>
-            <link>https://thegrid.ai/fashionit-in/butterfly-wings-magnified/index.html</link>
-            <guid isPermaLink="false">e65db4d6-e911-42da-ab57-efb2d70d8b18</guid>
-            <pubDate>Wed, 08 Jun 2016 16:57:56 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 08 Jun 2016 22:38:54 GMT</lastBuildDate>
+        <atom:link href="http://fashionit.in/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3db42b04-c63c-4f06-a0de-c3327c46ec8b.jpg">]]></description>
-            <link>https://thegrid.ai/fashionit-in/traditional/index.html</link>
+            <link>http://fashionit.in/traditional/index.html</link>
             <guid isPermaLink="false">d66ac4b4-a533-4962-81bc-516ddc4ea36f</guid>
-            <pubDate>Wed, 08 Jun 2016 16:42:37 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2016 22:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be8cd87-4576-4419-a56b-72e979002368.jpg">]]></description>
+            <link>http://fashionit.in/butterfly-wings-magnified/index.html</link>
+            <guid isPermaLink="false">e65db4d6-e911-42da-ab57-efb2d70d8b18</guid>
+            <pubDate>Wed, 08 Jun 2016 16:57:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
