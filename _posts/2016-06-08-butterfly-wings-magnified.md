@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Butterfly Wings Magnified
-datePublished: '2016-06-08T16:57:56.694Z'
-dateModified: '2016-06-08T16:57:30.376Z'
+datePublished: '2016-06-08T22:43:54.978Z'
+dateModified: '2016-06-08T21:17:28.432Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-08-butterfly-wings-magnified.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-08-butterfly-wings-magnified.md
 url: butterfly-wings-magnified/index.html
 _type: Article
 
