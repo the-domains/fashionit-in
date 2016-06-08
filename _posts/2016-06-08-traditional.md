@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Traditional '
-datePublished: '2016-06-08T16:42:37.491Z'
-dateModified: '2016-06-08T16:42:02.012Z'
+datePublished: '2016-06-08T22:38:53.420Z'
+dateModified: '2016-06-08T22:30:50.722Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-08-traditional.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-08-traditional.md
+starred: true
 url: traditional/index.html
 _type: Article
 
