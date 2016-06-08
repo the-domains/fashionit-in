@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Traditional '
-datePublished: '2016-06-08T22:38:53.420Z'
-dateModified: '2016-06-08T22:30:50.722Z'
+datePublished: '2016-06-08T22:43:29.384Z'
+dateModified: '2016-06-08T22:39:00.750Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-08-traditional.md
